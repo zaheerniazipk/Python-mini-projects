@@ -1,4 +1,4 @@
-# Project: Calculate age in seconds
+# Project: Calculate age into seconds or years
 
 def calculate_age():
     seconds_or_years = input("Give me seconds (s) or years (y) : ")
