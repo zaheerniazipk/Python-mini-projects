@@ -1,0 +1,15 @@
+ # 1- Open CMD                              -> Windows-key + R and type cmd
+
+ # 2- Check Python version                  -> python --version
+
+ # 3- import the Python socket module
+
+ # 4- Get Hostname
+
+ # 5- Find IP Address of host
+
+ # 6- Print the IP Address
+
+ # 7- Run Program
+
+ All done, Enjoy!!!
